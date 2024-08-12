@@ -1,9 +1,15 @@
 # Who Do I Email in CS@Columbia?
 
-Finance and Rooms
+Finance
 
 * For all purchasing ~ purchasing@cs.columbia.edu 
 * For Reimbursement ~ reimbursement@cs.columbia.edu 
+* Student payroll ~ Student-payroll@cs.Columbia.edu
+* Other student finances ~ Student-finance@cs.columbia.edu
+* ??? ~ Faculty-affairs@cs.columbia.edu
+
+Facilities
+
 * For All building issues ~ facilities@cs.columbia.edu 
 * For room reservations ~  reservations@cs.columbia.edu
 
