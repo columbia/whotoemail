@@ -8,6 +8,10 @@ Finance
 * purchasing@cs.columbia.edu: For all purchasing 
 * reimbursement@cs.columbia.edu: For Reimbursement. Include reciepts and funding source
 
+Who should review reimbursements in concur?
+
+* Nancy (I think)
+
 Facilities and Administrative
 
 * faculty-affairs@cs.columbia.edu: for all incoming faculty matters (e.g., accounting, reappointments, new appointments, visa matters, and additional compensation requests)
@@ -22,3 +26,4 @@ Student Academics
 * ms-advising@cs.columbia.edu: MS inquiries
 * phd-advising@cs.columbia.edu: PhD advising
 * career@cs.columbia.edu: Career-related inquiries
+
