@@ -8,9 +8,11 @@ Finance
 * purchasing@cs.columbia.edu: For all purchasing 
 * reimbursement@cs.columbia.edu: For Reimbursement. Include reciepts and funding source
 
-Who should review reimbursements in concur?
+Who should review reimbursements in concur? It depends on the charging department (where funds are from)!
 
-* Nancy (I think)
+* Nancy (Dean's office),
+* Terry (DSI),
+* Twinkle (CS).
 
 Facilities and Administrative
 
