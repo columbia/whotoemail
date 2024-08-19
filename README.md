@@ -29,3 +29,8 @@ Student Academics
 * phd-advising@cs.columbia.edu: PhD advising
 * career@cs.columbia.edu: Career-related inquiries
 
+# Other Info
+
+Special rates
+
+* [For hotels and travel](https://travel-expense.finance.columbia.edu/content/hotels)
