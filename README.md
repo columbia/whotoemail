@@ -1,5 +1,7 @@
 # Who Do I Email in CS@Columbia?
 
+Reed put together a spreadsheet!  [Use this link to see it](https://docs.google.com/spreadsheets/d/1DiBXudYrRY-zZEVogUSzFXynIm5QFTUvuSdZzwUHOaA/edit?usp=sharing).  I'll update this page and sync with Reed occassionally.
+
 Finance
 
 
