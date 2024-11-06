@@ -31,6 +31,11 @@ Student Academics
 * phd-advising@cs.columbia.edu: PhD advising
 * career@cs.columbia.edu: Career-related inquiries
 
+Lists
+
+* faculty list: active CS faculty (not including hired but not started)
+* grad_advisors list: PhD advisors (includes those not started but admitting, left but still advising)
+
 # Other Info
 
 Special rates
