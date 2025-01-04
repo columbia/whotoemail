@@ -2,7 +2,7 @@
 
 Faculty resources
 
-* [faculty google drive](https://drive.google.com/drive/u/1/folders/1ld9rku2xAmF0L70RbtD6mHanFUXXltK_)
+* [faculty google drive](https://drive.google.com/drive/u/1/folders/1ld9rku2xAmF0L70RbtD6mHanFUXXltK_) look here for documents first
 * [Reed's spreadsheet](https://docs.google.com/spreadsheets/d/1DiBXudYrRY-zZEVogUSzFXynIm5QFTUvuSdZzwUHOaA/edit?usp=sharing).  I'll update this page and sync with Reed occassionally.
 
 Finance
