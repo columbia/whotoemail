@@ -1,6 +1,9 @@
 # Who Do I Email in CS@Columbia?
 
-Reed put together a spreadsheet!  [Use this link to see it](https://docs.google.com/spreadsheets/d/1DiBXudYrRY-zZEVogUSzFXynIm5QFTUvuSdZzwUHOaA/edit?usp=sharing).  I'll update this page and sync with Reed occassionally.
+Faculty resources
+
+* [faculty google drive](https://drive.google.com/drive/u/1/folders/1ld9rku2xAmF0L70RbtD6mHanFUXXltK_)
+* [Reed's spreadsheet](https://docs.google.com/spreadsheets/d/1DiBXudYrRY-zZEVogUSzFXynIm5QFTUvuSdZzwUHOaA/edit?usp=sharing).  I'll update this page and sync with Reed occassionally.
 
 Finance
 
@@ -8,7 +11,7 @@ Finance
 * student-finances@cs.columbia.edu: for all student funding plan updates, changes, and new requests.
 * student-payroll@cs.columbia.edu: all student appointment requests/inquiries (research, short-term, and research). This will be the go-to site where students/faculty and admins submit inquiries.
 * purchasing@cs.columbia.edu: For all purchasing 
-* reimbursement@cs.columbia.edu: For Reimbursement. Include reciepts and funding source
+* reimbursement@cs.columbia.edu: For Reimbursement. Include receipts and funding source
 
 Who should review reimbursements in concur? It depends on the charging department (where funds are from)!
 
