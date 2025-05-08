@@ -28,16 +28,20 @@ Facilities and Administrative
 
 Student Academics
 
-* gradvising@cs.columbia.edu: DEFUNCT!
-* ug-advising@cs.columbia.edu: Undergraduate inquiries
-* ms-advising@cs.columbia.edu: MS inquiries
-* phd-advising@cs.columbia.edu: PhD advising
-* career@cs.columbia.edu: Career-related inquiries
+* gradvising@cs: DEFUNCT!
+* ug-advising@cs: Undergraduate inquiries
+* ms-advising@cs: MS inquiries
+* phd-advising@cs: PhD inquiries
+* career@cs: Career-related inquiries
+- phd-students@cs: phd student list
+- staff@cs: both administrative and technical staff
+- cs-department@cs: faculty, phds, ms, undergrads
 
 Lists
 
-* faculty list: active CS faculty (not including hired but not started)
-* grad_advisors list: PhD advisors (includes those not started but admitting, left but still advising)
+* faculty@cs: active CS faculty (not including hired but not started)
+* faculty-plus@cs: faculty + affiliates
+* grad-advisors@cs: PhD advisors (includes those not started but admitting, left but still advising)
 
 # Other Info
 
