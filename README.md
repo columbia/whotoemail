@@ -49,3 +49,7 @@ Special rates
 
 * [For hotels and travel](https://travel-expense.finance.columbia.edu/content/hotels)
 * [Food for TA meetings](./files/ta-food.pdf).  Email elias
+
+Documents
+
+* Daniel Hsu's [latex Columbia Letterhead template](./files/lettertemplate.zip)
