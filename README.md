@@ -54,3 +54,15 @@ Special rates
 Documents
 
 * Daniel Hsu's [latex Columbia Letterhead template](./files/lettertemplate.zip)
+
+
+
+# Other Lessons Learned
+
+## Course Imports
+
+* NYS rule: The New York State Department of Education prohibits counting any undergraduate course—from any institution—toward a graduate degree awarded by a NYS university.
+* Enforcement risk: NYS auditors can retroactively invalidate awarded degrees if they find undergraduate credits applied toward a graduate program.
+* Columbia process: To avoid jeopardizing a student’s PhD, Student Services must verify all transfer/imported courses are graduate-level.
+* Algorithms exception: The Algorithms prereq may be an upper-level undergraduate or graduate course; NYS regulations do not govern prerequisites, only degree credit.
+* Faculty policy: CS faculty created the prereq rule to prevent substituting lower-level courses (e.g., sophomore data structures) for the intended senior-level algorithms course, not because of NYS regulations.
