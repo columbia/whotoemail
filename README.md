@@ -55,7 +55,9 @@ Documents
 
 * Daniel Hsu's [latex Columbia Letterhead template](./files/lettertemplate.zip)
 
+Where is my projects in CS research units links on vergil???
 
+* https://www.boomshare.ai/shared/01KEJ2Z3ZDRMY0M1WHXGBPPF1Q
 
 # Other Lessons Learned
 
