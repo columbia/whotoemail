@@ -59,6 +59,8 @@ Where is my projects in CS research units links on vergil???
 
 * https://www.boomshare.ai/shared/01KEJ2Z3ZDRMY0M1WHXGBPPF1Q
 
+research visitor?  use this https://provost.columbia.edu/content/designated-academic-colleague-dac
+
 # Other Lessons Learned
 
 ## Course Imports
