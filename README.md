@@ -1,4 +1,4 @@
-# Who Do I Email in CS@Columbia?
+# Who do I email in CS @ Columbia?
 
 Faculty resources
 
